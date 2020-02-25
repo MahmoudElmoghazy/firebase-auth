@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047538062787",
+    "firebase_url": "https://daep-payment-authentication.firebaseio.com",
+    "project_id": "daep-payment-authentication",
+    "storage_bucket": "daep-payment-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047538062787:android:a2edfe08a9a05e82489976",
+        "android_client_info": {
+          "package_name": "ae.daep.app.contractor.payment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047538062787-0jqbteh3chc8la0qts0ommrqvkterpvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUk3N6Ld7g6jtdGLkE8FRO7NRM6nngkyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047538062787-0jqbteh3chc8la0qts0ommrqvkterpvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
